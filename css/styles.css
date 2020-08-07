@@ -1,0 +1,15 @@
+.outer {
+	width: 60%;
+	height: 250px;
+	padding: 30px;
+	background-color: orange;
+	border: 1px solid black;
+}
+
+.inner {
+	width: 100%;
+	height: 100%;
+	background-color: olive;
+	border: 1px solid #666;
+}
+
